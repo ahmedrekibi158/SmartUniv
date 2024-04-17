@@ -1,7 +1,7 @@
 # SmartUniv - Bachelor's Degree Project
 
 ## Overview
-
+(A university website that contains all administrative processes for university personnel, in addition to a system for recording absences)
 SmartUniv is a University Management System designed to optimize administrative processes for various user roles within an academic institution. This comprehensive system covers functionalities for Administrators, Department Heads, Course Instructors, and Students, facilitating efficient management of teachers, students, modules, sessions, attendance, justifications, exclusions, and historical activities.
 
 ## Features
